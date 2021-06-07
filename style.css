@@ -1,0 +1,22 @@
+
+
+    #app{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        gap: 1rem;
+        padding-top: 1rem;
+    }
+
+    h1{
+        text-align: center;
+        color:rgb(29, 88, 90);
+      
+    }
+
+    h3{
+        text-align: center;
+        color:rgb(29, 88, 90);
+    }
